@@ -6,25 +6,25 @@
 }
 
 #ruang-keluarga {
-    background-image: url(/img/ruang-keluarga.jpg);
+    background-image: url(./img/ruang-keluarga.jpg);
     background-size: cover;
     height: 50vh;
 }
 
 #ruang-makan {
-    background-image: url(/img/ruang-makan.jpg);
+    background-image: url(./img/ruang-makan.jpg);
     background-size: cover;
     height: 50vh;
 }
 
 #ruang-tidur {
-    background-image: url(/img/ruang-tidur.jpg);
+    background-image: url(./img/ruang-tidur.jpg);
     background-size: cover;
     height: 50vh;
 }
 
 #ruang-tamu {
-    background-image: url(/img/ruang-tamu.jpg);
+    background-image: url(./img/ruang-tamu.jpg);
     background-size: cover;
     height: 50vh;
 }
